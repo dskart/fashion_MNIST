@@ -14,7 +14,7 @@ Please take in account that this code was written in a few days without any prof
 
 All 3 NN models are located in ["models.py"](models.py). Look there if you want more information on the architecture of each model.
 
-The file ["fashian_mnist.py"](fashian_mnist.py) contains all the code to load the data set, run the models and visualize the results with a confusion matrix.
+The file ["fashion_mnist.py"](fashion_mnist.py) contains all the code to load the data set, run the models and visualize the results with a confusion matrix.
 
 ### Prerequisites
 
